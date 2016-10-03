@@ -9,3 +9,5 @@ Quickly import large volumes of documents, folders, items into SharePoint docume
 You may download the installer, example files and also raise issues on DIFS here.
 
 The DIFS project itself is currently hosted at [DIFS.CodePlex.Com](https://difs.codeplex.com) and will be moved in due course.
+
+In order to use DIFS download the installer from this project and run setup.exe.  Example import files will be installed.
