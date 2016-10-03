@@ -23,6 +23,6 @@ When you install DIFS the product will install example XML configuration files i
 
 You may pick the one which most closely matches your needs and amend it.
 
-### Get Help 
+### Get Help from the Developer
 
 You may raise help requests and questions via the normal GitHub issues mechanism.  Please try and include full details, any error messags and a copy of your XML configuration file.  Remove any sensitive information from the latter before uploading.
