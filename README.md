@@ -3,7 +3,7 @@
 
 ## About DIFS 
 
-A data import tool for SharePoint.
+A data / document import tool for SharePoint.
 
 (Free / File / Document / List Item / Folder / CSV / OleDB / Database / Access / Bulk Import For SharePoint / Office 365 / SharePoint Online / 2010 / 2013 / 2016 / Server / Foundation )
 
