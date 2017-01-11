@@ -23,9 +23,11 @@ You can configure the import using a XML file.
 
 You can define destination types of documents, folders, pages, documents sets, items etc and import those items into SharePoint with meta data as shown below.
 
+<img src="https://github.com/MadAboutImport/DIFS/blob/master/Assets/Folders.png"/>
+
+
 <img src="https://github.com/MadAboutImport/DIFS/blob/master/Assets/Documents.png"/>
 
-<img src="https://github.com/MadAboutImport/DIFS/blob/master/Assets/Folders.png"/>
 
 ## Using DIFS
 
