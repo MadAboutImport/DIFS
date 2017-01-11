@@ -39,7 +39,7 @@ You may pick the one which most closely matches your needs and amend it.
 
 ### Wiki
 
-You will find help and guidance in the Wiki (Click the Wiki Tab)
+You will find help and guidance in the Wiki (<a href="https://github.com/MadAboutImport/DIFS/wiki">Click the Wiki Tab</a>)
 
 ### Documentation
 
