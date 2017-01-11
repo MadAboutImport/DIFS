@@ -13,6 +13,9 @@ You may download the installer, example files and also raise issues on DIFS here
 
 The DIFS project itself is currently hosted at [DIFS.CodePlex.Com](https://difs.codeplex.com) and will be moved in due course.
 
+DIFS gives you a simple user interface.
+
+<img src="https://github.com/MadAboutImport/DIFS/blob/master/Assets/DIFS.png"/>
 
 ## Using DIFS
 
