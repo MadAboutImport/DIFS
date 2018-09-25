@@ -1,13 +1,68 @@
 # DIFS - Data Importer For SharePoint &amp; Office 365
 ---
 
-## About DIFS 
+## What is DIFS
 
-A data / document import / migration tool for SharePoint.
+DIFS allows you to easily import data from a source to a destination.  It can therefore be used as a migration tool, an import tool or a bulk creation tool.
 
-(Free / File / Document / List Item / Folder / CSV / OleDB / Database / Access / Bulk Import For SharePoint / Office 365 / SharePoint Online / 2010 / 2013 / 2016 / Server / Foundation )
+### A Migration Tool
 
-Quickly import large volumes of documents, folders, pages, documents sets, items into SharePoint document libraries and lists.
+Migrate documents and meta data into SharePoint.
+
+Migrate file shares into SharePoint.
+
+Migrate legacy systems into SharePoint.
+
+### An Import Tool
+
+Import documents and meta data into SharePoint.
+
+Import data into SharePoint from sources such as Excel or a database.
+
+### A Bulk Creation tool
+
+Bulk create list items and folders.
+
+## Sources
+
+DIFS supports a number of sources
+
+### File Sources
+
+File shares
+Local drives
+Any file - PDF / Office / etc
+UNC Paths
+
+### Data Sources
+
+CSV
+Excel
+Access
+OleDB
+ODBC
+SQL Server
+Oracle 
+etc
+
+## Destinations
+
+DIFS supports different destination SharePoint versions and allows the creation of different destination item types.
+
+### SharePoint Versions
+
+SharePoint 2010 / 2013 / 2016 / 2019 / Online
+Office 365
+Foundation / Server / Enterprise
+
+### Item Types
+
+Documents
+Folders
+Document Sets
+List Items
+Pages
+
 
 You may download the installer, example files and also raise issues on DIFS here.
 
