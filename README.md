@@ -29,21 +29,25 @@ DIFS supports a number of sources
 
 ### File Sources
 
-*File shares
-*Local drives
-*Any file - PDF / Office / etc
-*UNC Paths
+- File shares
+- Local drives
+- Any file - PDF / Office / etc
+- UNC Paths
 
 ### Data Sources
 
-CSV
-Excel
-Access
-OleDB
-ODBC
-SQL Server
-Oracle 
-etc
+- CSV
+- Excel
+- Access
+- OleDB
+- ODBC
+- SQL Server
+- Oracle 
+- etc
+
+### Legacy Systems
+
+Migrate legacy systems by directly accessing the supporting database (See sources) and migrating the data to SharePoint into the different supported item types.
 
 ## Destinations
 
@@ -51,22 +55,19 @@ DIFS supports different destination SharePoint versions and allows the creation 
 
 ### SharePoint Versions
 
-SharePoint 2010 / 2013 / 2016 / 2019 / Online
-Office 365
-Foundation / Server / Enterprise
+- SharePoint 2010 / 2013 / 2016 / 2019 / Online
+- Office 365
+- Foundation / Server / Enterprise
 
 ### Item Types
 
-Documents
-Folders
-Document Sets
-List Items
-Pages
+- Documents
+- Folders
+- Document Sets
+- List Items
+- Pages
 
-
-You may download the installer, example files and also raise issues on DIFS here.
-
-The DIFS project itself is currently hosted at [DIFS.CodePlex.Com](https://difs.codeplex.com) and will be moved in due course.
+## Usage 
 
 DIFS gives you a simple user interface.
 
@@ -80,25 +81,38 @@ You can define destination types of documents, folders, pages, documents sets, i
 
 <img src="https://github.com/MadAboutImport/DIFS/blob/master/Assets/Folders.png"/>
 
-
 <img src="https://github.com/MadAboutImport/DIFS/blob/master/Assets/Documents.png"/>
 
 
-## Using DIFS
+## Getting Started
 
-### Examples
+### Download DIFS
 
-When you install DIFS the product will install example XML configuration files in the "Examples" directory.
+[Download the lastest zipped build](https://github.com/MadAboutImport/DIFS/blob/master/DIFS30Build1.zip).
 
-You may pick the one which most closely matches your needs and amend it.
+### Install DIFS
 
-### Wiki
+Either run the installer or you can just run from the Run From Here folder in the zip.
+
+### Download the Documentation
+
+Download the documentation
+
+https://github.com/MadAboutImport/DIFS/blob/master/DIFS.pdf
+
+### Using the documentation
+
+Follow the Getting Started and the Examples sections in thge documentation.
+
+Examples are includes for a wider varierty of scenarions
+
+## Further Reading
+
+### Thw Wiki
 
 You will find help and guidance in the Wiki (<a href="https://github.com/MadAboutImport/DIFS/wiki">Click the Wiki Tab</a>)
 
-### Documentation
+## Support
 
-You will find help, guidance and example scenarios explained in the documentation
-
-https://github.com/MadAboutImport/DIFS/blob/master/DIFS.pdf
+Raise an issue on this repository for assistance, support, fixes.
 
