@@ -69,13 +69,21 @@ DIFS supports different destination SharePoint versions and allows the creation 
 
 ## Usage 
 
+Configure with and XML file and execute via a user interface.
+
+### User Interface
+
 DIFS gives you a simple user interface.
 
 <img src="https://github.com/MadAboutImport/DIFS/blob/master/Assets/DIFS.png"/>
 
+### Configuration
+
 You can configure the import using a XML file.
 
 <img src="https://github.com/MadAboutImport/DIFS/blob/master/Assets/xml.png"/>
+
+### Destination
 
 You can define destination types of documents, folders, pages, documents sets, items etc and import those items into SharePoint with meta data as shown below.
 
@@ -108,7 +116,7 @@ Examples are includes for a wider varierty of scenarions
 
 ## Further Reading
 
-### Thw Wiki
+### Wiki
 
 You will find help and guidance in the Wiki (<a href="https://github.com/MadAboutImport/DIFS/wiki">Click the Wiki Tab</a>)
 
