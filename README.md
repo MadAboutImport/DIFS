@@ -19,7 +19,7 @@ Import documents and meta data into SharePoint.
 
 Import data into SharePoint from sources such as Excel or a database.
 
-### A Bulk Creation tool
+### A Bulk Creation Tool
 
 Bulk create list items and folders.
 
@@ -29,10 +29,10 @@ DIFS supports a number of sources
 
 ### File Sources
 
-File shares
-Local drives
-Any file - PDF / Office / etc
-UNC Paths
+*File shares
+*Local drives
+*Any file - PDF / Office / etc
+*UNC Paths
 
 ### Data Sources
 
